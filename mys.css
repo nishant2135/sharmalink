@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  padding:0;
+  background: url(cds.jpg) no-repeat;
+  background-size: cover;
+}
+ .bg{
+	 background-color: orange;
+	 color:red;
+ }
+.mv{
+	color:red;
+}
